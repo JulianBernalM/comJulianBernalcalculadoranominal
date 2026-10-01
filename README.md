@@ -19,3 +19,5 @@ Calculadora de Nómina es una aplicación móvil desarrollada con Kotlin y Jetpa
 
 ## Capturas de pantalla
 
+- `Las capturas de pantalla las podras encontrar en la siguiente ruta` : app/src/main/res/drawable/fotos de evidencias
+- `Las capturas de pantalla para las aplicaciones Dice Roller y Tip`: Archivo llamado evidencias 
