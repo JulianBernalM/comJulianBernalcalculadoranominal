@@ -1,6 +1,9 @@
+# Julian Bernal Marin - 55971
+
 # Calculadora de Nómina Colombiana
 
-Aplicación móvil desarrollada para Android utilizando Jetpack Compose. El proyecto está basado en el modelo simplificado planteado en el taller de septiembre de 2026, por lo que no corresponde a una liquidación laboral oficial.
+# Descripcion
+Calculadora de Nómina es una aplicación móvil desarrollada con Kotlin y Jetpack Compose que permite calcular de forma sencilla el salario neto de un trabajador colombiano a partir de su salario básico y horas extra, teniendo en cuenta auxilio de transporte y deducciones de ley. La aplicación también incluye validaciones, desglose de resultados y clasificación por rango salarial.
 
 ## Cómo abrir el proyecto en Android Studio
 1. Extrae el archivo ZIP y, desde Android Studio, selecciona Open en la carpeta CalculadoraNomina.
