@@ -16,3 +16,6 @@ Calculadora de Nómina es una aplicación móvil desarrollada con Kotlin y Jetpa
 - `drawable/rango_*.xml`: contiene tres imágenes vectoriales utilizadas para representar los diferentes rangos.
 - `MainActivity.kt`: incluye la interfaz desarrollada con Compose, las validaciones, los campos de entrada y los interruptores reutilizables.
 - `strings.xml`: almacena los textos que se muestran en la aplicación.
+
+## Capturas de pantalla
+
